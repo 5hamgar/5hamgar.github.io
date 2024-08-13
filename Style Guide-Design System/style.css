@@ -1,0 +1,222 @@
+* {
+   
+}
+
+ 
+}
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-decoration: underline;
+}
+div {
+    height: 200px;
+    width: 250px;
+    display: inline-block;
+    margin: none;
+    clear: both;
+    
+}
+img {
+    right: 0;
+    width: 400px;
+    height: 300px;
+    
+}
+
+figure {
+    display: inline-block;
+}
+
+figcaption {
+    color: black;
+}
+
+}
+
+#insp3 {
+    height: auto;
+    width: auto;
+}
+
+#pal1col1 {
+    background-color: #8ECAE6;
+    
+}
+#pal1col2 {
+    background-color: #219EBC
+}
+#pal1col3 {
+    background-color: #023047;
+    color: white;
+    
+}
+#pal1col4 {
+    background-color: #ffb703;
+    
+}
+#pal1col5 {
+    background-color: #fb8500;
+    
+}
+#pal2col1 {
+    background-color: #cdb4db; 
+}
+
+#pal2col2 {
+    background-color: #ffc8dd;  
+}
+#pal2col3 {
+    background-color: #ffafcc;
+    
+}
+#pal2col4 {
+    background-color: #bde0fe;  
+    
+}
+#pal2col5 {
+    background-color: #a2d2ff;
+    
+}
+/*  CSS HEX 
+--bistre: #302019ff;
+--van-dyke: #4F372Fff;
+--bole: #724B3Fff;
+--chamoisee: #A08351ff;
+--chamoisee-2: #A4754Dff;
+--redwood: #B24748ff;
+--coral-pink: #E39384ff;
+--old-rose: #CE8C8Dff;
+--indigo-dye: #284F69ff;
+--air-superiority-blue: #6D97B1ff;
+
+ CSS HSL 
+--bistre: hsla(18, 32%, 14%, 1);
+--van-dyke: hsla(15, 25%, 25%, 1);
+--bole: hsla(14, 29%, 35%, 1);
+--chamoisee: hsla(38, 33%, 47%, 1);
+--chamoisee-2: hsla(28, 36%, 47%, 1);
+--redwood: hsla(359, 43%, 49%, 1);
+--coral-pink: hsla(9, 63%, 70%, 1);
+--old-rose: hsla(359, 40%, 68%, 1);
+--indigo-dye: hsla(204, 45%, 28%, 1);
+--air-superiority-blue: hsla(203, 30%, 56%, 1); */
+
+#pal3col1 {
+    background-color: #302019ff;
+    color: white;
+}
+#pal3col2 {
+    background-color: #4F372Fff;
+    color: white;
+}
+#pal3col3 {
+    background-color: #724B3Fff;
+    color: white;
+}
+#pal3col4 {
+    background-color: #A08351ff;
+}
+#pal3col5 {
+    background-color: #A4754Dff;
+}
+#pal3col6 {
+    background-color: #B24748ff;
+}
+#pal3col7 {
+    background-color: #E39384ff;
+}
+#pal3col8 {
+    background-color: #CE8C8Dff;
+}
+#pal3col9 {
+    background-color: #284F69ff;
+    color: white;
+}
+#pal3col10 {
+    background-color: #6D97B1ff;
+}
+
+/* CSS HEX 
+--brunswick-green: #1B4F48ff;
+--fern-green: #3F6E3Fff;
+--asparagus: #819E44ff;
+--verdigris: #23A9B0ff;
+--tiffany-blue: #68D0CFff;
+--burgundy: #6F1F25ff;
+--old-rose: #CA7473ff;
+--tea-rose-red: #F5C2C7ff;
+--space-cadet: #192753ff;
+--celestial-blue: #3A96D6ff;
+
+ CSS HSL 
+--brunswick-green: hsla(172, 49%, 21%, 1);
+--fern-green: hsla(120, 27%, 34%, 1);
+--asparagus: hsla(79, 40%, 44%, 1);
+--verdigris: hsla(183, 67%, 41%, 1);
+--tiffany-blue: hsla(179, 53%, 61%, 1);
+--burgundy: hsla(356, 56%, 28%, 1);
+--old-rose: hsla(1, 45%, 62%, 1);
+--tea-rose-red: hsla(354, 72%, 86%, 1);
+--space-cadet: hsla(226, 54%, 21%, 1);
+--celestial-blue: hsla(205, 66%, 53%, 1); */
+#pal4col1 {
+    background-color: #1B4F48ff;
+    color: white;
+}
+#pal4col2 {
+    background-color: #3F6E3Fff;
+    color: white;
+}
+#pal4col3 {
+    background-color: #819E44ff;
+    color: white;
+}
+#pal4col4 {
+    background-color: #23A9B0ff;
+}
+#pal4col5 {
+    background-color: #68D0CFff;
+}
+#pal4col6 {
+    background-color: #6F1F25ff;
+}
+#pal4col7 {
+    background-color: #CA7473ff;
+}
+#pal4col8 {
+    background-color: #F5C2C7ff;
+}
+#pal4col9 {
+    background-color: #192753ff;
+    color: white;
+}
+#pal4col10 {
+    background-color: #3A96D6ff;
+}
+
+
+.anek {
+    font-family: 'Anek Devanagari';
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.palette3 {
+    color: white;
+}
+
+
+    
